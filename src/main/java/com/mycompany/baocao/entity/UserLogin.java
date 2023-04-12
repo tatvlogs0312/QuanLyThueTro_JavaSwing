@@ -34,7 +34,5 @@ public class UserLogin {
 
     public void setMk(String mk) {
         this.mk = mk;
-    }
-    
-    
+    }    
 }

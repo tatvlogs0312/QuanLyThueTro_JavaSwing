@@ -25,6 +25,10 @@ public class HoaDon {
 
     public HoaDon() {
     }
+    
+    /*
+    getter + setter
+    */
 
     public String getId() {
         return id;

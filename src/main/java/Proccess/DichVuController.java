@@ -42,6 +42,7 @@ public class DichVuController {
 
         return lst;
     }
+    
     public boolean insertData(DichVu kt) throws SQLException {
 
         Connection cn = connect.getConnection();

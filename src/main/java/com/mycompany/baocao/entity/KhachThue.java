@@ -78,6 +78,4 @@ public class KhachThue {
     public void setSdt(String sdt) {
         this.sdt = sdt;
     }
-
-    
 }
